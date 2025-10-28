@@ -1,8 +1,8 @@
 awkward
 hist
 ipykernel
-jax==0.8.0
-jaxlib==0.8.0
+jax
+jaxlib
 matplotlib
 mplhep
 numpy<2
