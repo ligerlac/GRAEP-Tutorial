@@ -3,6 +3,7 @@ hist
 ipykernel
 jax
 jaxlib
+optax
 matplotlib
 mplhep
 numpy<2
