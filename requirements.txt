@@ -9,3 +9,4 @@ mplhep
 numpy<2
 evermore==0.3.3
 optimistix
+rich
